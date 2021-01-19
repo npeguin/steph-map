@@ -23,9 +23,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/corridor-map\/map.json#front_of_steph"
+                 "value":"\/@\/tcm\/workadventure\/corridor#front_of_steph"
                 }],
          "type":"tilelayer",
          "visible":true,
